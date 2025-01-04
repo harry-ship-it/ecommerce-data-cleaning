@@ -1,0 +1,5 @@
+order_id,customer_name,product,price,quantity,date
+1001,john doe,laptop,1200,1,2024-02-10
+1002,jane smith,phone,800,2,2024-02-11
+1003,alice brown,tablet,500,1,2024-02-12
+1005,charlie gray,laptop,1200,1,2024-02-13
