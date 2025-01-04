@@ -1,0 +1,6 @@
+﻿order_id,customer_name,,product,price,quantity,date
+1001,John Doe,,Laptop,1200,1,10-02-2024
+1002,Jane Smith,,Phone,NaN,2,11-02-2024
+1003,Alice Brown,,Tablet,500,1,
+1004,Bob White,,Phone,800,1,12-02-2024
+1005,Charlie Gray,,Laptop,1200,NaN,13-02-2024
